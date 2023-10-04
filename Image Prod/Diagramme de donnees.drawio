@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-04T20:49:53.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="XrxJWQgS3JpVUdTQoW-R" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-04T20:52:16.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="qOoLxm3VLpXZU-ECQF7D" version="22.0.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -438,7 +438,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NluHwBGUJTvfX-VE3aUP-105" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="NluHwBGUJTvfX-VE3aUP-103">
-          <mxGeometry x="1" relative="1" as="geometry" />
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="15" y="20" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="NluHwBGUJTvfX-VE3aUP-106" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NluHwBGUJTvfX-VE3aUP-73" target="NluHwBGUJTvfX-VE3aUP-43">
           <mxGeometry relative="1" as="geometry">
@@ -452,7 +454,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NluHwBGUJTvfX-VE3aUP-108" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="NluHwBGUJTvfX-VE3aUP-106">
-          <mxGeometry x="1" relative="1" as="geometry" />
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="5" y="20" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="NluHwBGUJTvfX-VE3aUP-109" value="Le joueur lors du match utilise" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="100" y="260" width="160" height="60" as="geometry" />
