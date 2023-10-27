@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T07:31:21.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="m8wwisf6BgtI2vZZ3pA2" version="22.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T09:59:33.554Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="-vjlZaVcAneeYQiBAE9V" version="22.0.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="MrG8NplEkhB1PvPd3Gjv-14" value="StatJoueur" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="427.5" y="597" width="165" height="162" as="geometry" />
+          <mxGeometry x="427.5" y="597" width="165" height="182" as="geometry" />
         </mxCell>
-        <mxCell id="MrG8NplEkhB1PvPd3Gjv-15" value="- total_damage_dealt : int&lt;br&gt;- total_domage_take : int&lt;br&gt;- total_heal : int&lt;br&gt;- kills&lt;br&gt;- deaths&lt;br&gt;- assists&lt;br&gt;- kda : int&lt;br&gt;- win : boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="MrG8NplEkhB1PvPd3Gjv-14" vertex="1">
-          <mxGeometry y="26" width="165" height="124" as="geometry" />
+        <mxCell id="MrG8NplEkhB1PvPd3Gjv-15" value="- total_damage_dealt : int&lt;br&gt;- total_domage_take : int&lt;br&gt;- total_heal : int&lt;br&gt;- kills : int&lt;br&gt;- deaths : int&lt;br&gt;- assists : int&lt;br&gt;-&amp;nbsp;creeps : int&lt;br&gt;-&amp;nbsp;total_gold : int&lt;br&gt;- win : boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="MrG8NplEkhB1PvPd3Gjv-14" vertex="1">
+          <mxGeometry y="26" width="165" height="144" as="geometry" />
         </mxCell>
         <mxCell id="MrG8NplEkhB1PvPd3Gjv-16" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="MrG8NplEkhB1PvPd3Gjv-14" vertex="1">
-          <mxGeometry y="150" width="165" height="12" as="geometry" />
+          <mxGeometry y="170" width="165" height="12" as="geometry" />
         </mxCell>
         <mxCell id="MrG8NplEkhB1PvPd3Gjv-37" value="MatchJoueur" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="430" y="340" width="160" height="148" as="geometry" />
