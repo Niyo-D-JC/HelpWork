@@ -1,6 +1,7 @@
 # coding=utf-8
 # Copyright 2024 The GTE Team Authors and Alibaba Group.
 # Licensed under the Apache License, Version 2.0 (the "License");
+#
 
 from collections import defaultdict
 from typing import Dict, List, Tuple
